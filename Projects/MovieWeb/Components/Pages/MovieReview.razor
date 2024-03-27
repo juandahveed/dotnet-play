@@ -1,0 +1,11 @@
+@page "/MovieReview/{id:int}"
+
+<PageTitle>Movie Review!</PageTitle>
+
+
+<Review @rendermode = "RenderMode.InteractiveWebAssembly" Id ="@Id" />
+
+@code{
+  [Parameter]
+  public int Id{get; set;}
+}

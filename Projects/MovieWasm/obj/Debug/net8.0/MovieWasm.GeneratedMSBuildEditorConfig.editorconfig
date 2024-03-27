@@ -1,0 +1,59 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = MovieWasm
+build_property.RootNamespace = MovieWasm
+build_property.ProjectDir = /Users/antosiak/Development/BlazorDemo/Projects/MovieWasm/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/antosiak/Development/BlazorDemo/Projects/MovieWasm
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/antosiak/Development/BlazorDemo/Projects/MovieWasm/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/antosiak/Development/BlazorDemo/Projects/MovieWasm/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/antosiak/Development/BlazorDemo/Projects/MovieWasm/Pages/MovieItem.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTW92aWVJdGVtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/antosiak/Development/BlazorDemo/Projects/MovieWasm/Pages/MovieItems.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTW92aWVJdGVtcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/antosiak/Development/BlazorDemo/Projects/MovieWasm/Pages/Review.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmV2aWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/antosiak/Development/BlazorDemo/Projects/MovieWasm/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvV2VhdGhlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/antosiak/Development/BlazorDemo/Projects/MovieWasm/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/antosiak/Development/BlazorDemo/Projects/MovieWasm/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-cny5w0uhn8
+
+[/Users/antosiak/Development/BlazorDemo/Projects/MovieWasm/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-c8vwf7k7h2
